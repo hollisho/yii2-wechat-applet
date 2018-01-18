@@ -1,1 +1,1 @@
-# yii2-applet
+# yii2-wechat-applet
