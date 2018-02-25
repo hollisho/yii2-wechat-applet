@@ -1,12 +1,12 @@
 <?php
 
-namespace xsteach\applet\Decrypt;
+namespace hollis\applet\Decrypt;
 
 use yii\base\Exception;
 
 /**
  * Class DecryptionException
- * @package xsteach\applet\Decrypt
+ * @package hollis\applet\Decrypt
  * @author Hollis Ho
  */
 class DecryptionException extends Exception

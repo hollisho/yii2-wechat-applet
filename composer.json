@@ -1,0 +1,19 @@
+{
+    "name": "hollisho/yii2-wechat-applet",
+    "authors": [
+        {
+            "name": "Hollis Ho",
+            "email": "he_wenzhi@126.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/hollisho/yii2-wechat-applet"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "hollis\\applet\\": "src/" }
+    }
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace xsteach\applet\Decrypt;
+namespace hollis\applet\Decrypt;
 
 use yii\base\Exception;
 use yii\helpers\Json;
@@ -8,7 +8,7 @@ use yii\helpers\Json;
 
 /**
  * Class AppletDecrypt
- * @package xsteach\applet\Decrypt
+ * @package hollis\applet\Decrypt
  * @author Hollis Ho
  */
 class AppletDecrypt

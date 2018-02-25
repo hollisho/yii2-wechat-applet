@@ -1,7 +1,12 @@
 <?php
 
-namespace xsteach\applet\Model;
+namespace hollis\applet\Model;
 
+/**
+ * Class PhoneNumber
+ * @package hollis\applet\Model
+ * @author Hollis Ho
+ */
 class PhoneNumber
 {
     protected $data;

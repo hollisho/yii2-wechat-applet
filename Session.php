@@ -1,11 +1,11 @@
 <?php
 
-namespace xsteach\applet;
+namespace hollis\applet;
 
 
 /**
  * Class Session
- * @package xsteach\applet
+ * @package hollis\applet
  * @author Hollis Ho
  */
 class Session
