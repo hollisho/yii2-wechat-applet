@@ -9,7 +9,7 @@ Yii2小程序组件 获取用户信息和会话密钥
 ## 安装
 
 ```
-composer require hollisho/yii2-wechat-applet
+composer require --prefer-dist hollisho/yii2-wechat-applet
 ```
 
 ## 配置
