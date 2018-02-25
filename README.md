@@ -9,7 +9,7 @@ Yii2小程序组件 获取用户信息和会话密钥
 ## 安装
 
 ```
-composer require jtcczu/yii2-applet
+composer require hollisho/yii2-wechat-applet
 ```
 
 ## 配置
@@ -19,7 +19,7 @@ return [
     //...
     'components' => [
         'applet' => [
-          'class' => 'xst\applet\components\Applet',
+          'class' => 'hollisho/applet/Applet',
           'appid' => 'APPID',
           'secret' => 'SECRET'
         ]
