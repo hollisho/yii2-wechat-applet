@@ -19,7 +19,7 @@ return [
     //...
     'components' => [
         'applet' => [
-          'class' => 'hollisho/applet/Applet',
+          'class' => 'hollisho\applet\Applet',
           'appid' => 'APPID',
           'secret' => 'SECRET'
         ]
