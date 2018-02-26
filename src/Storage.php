@@ -1,12 +1,12 @@
 <?php
 
-namespace hollis\applet;
+namespace hollisho\applet;
 
 use yii\base\Component;
 
 /**
  * Class Storage
- * @package hollis\applet
+ * @package hollisho\applet
  * @author Hollis Ho
  */
 class Storage extends Component

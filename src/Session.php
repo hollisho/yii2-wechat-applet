@@ -1,11 +1,11 @@
 <?php
 
-namespace hollis\applet;
+namespace hollisho\applet;
 
 
 /**
  * Class Session
- * @package hollis\applet
+ * @package hollisho\applet
  * @author Hollis Ho
  */
 class Session

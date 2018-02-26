@@ -1,15 +1,15 @@
 <?php
 
-namespace hollis\applet;
+namespace hollisho\applet;
 
-use hollis\applet\Decrypt\AppletDecrypt;
+use hollisho\applet\Decrypt\AppletDecrypt;
 use yii\base\Component;
 use yii\web\HttpException;
 use yii\httpclient\Client;
 
 /**
  * Class Applet
- * @package hollis\applet
+ * @package hollisho\applet
  * @author Hollis Ho
  */
 class Applet extends Component

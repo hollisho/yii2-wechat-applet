@@ -1,6 +1,6 @@
 <?php
 
-namespace hollis\applet\Decrypt;
+namespace hollisho\applet\Decrypt;
 
 use yii\base\Exception;
 

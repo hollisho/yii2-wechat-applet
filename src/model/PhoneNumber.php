@@ -1,10 +1,10 @@
 <?php
 
-namespace hollis\applet\Model;
+namespace hollisho\applet\Model;
 
 /**
  * Class PhoneNumber
- * @package hollis\applet\Model
+ * @package hollisho\applet\Model
  * @author Hollis Ho
  */
 class PhoneNumber
